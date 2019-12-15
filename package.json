@@ -1,0 +1,24 @@
+{
+  "name": "dal",
+  "version": "1.0.0",
+  "description": "Data access layer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MRHarutyun/dal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MRHarutyun/dal/issues"
+  },
+  "homepage": "https://github.com/MRHarutyun/dal#readme",
+  "dependencies": {
+    "mongodb": "^3.3.5",
+    "mongoose": "^5.8.0",
+    "redis": "^2.8.0"
+  }
+}
